@@ -11,7 +11,8 @@ Para este projeto de gerenciador de tarefas foram implementados os itens:
     c) Utilizar JPA
       - Foi utilizado o JPA 2.1, através do hibernate 4.3
     
-    Para o fornecimento de componentes visuais do projeto, também foram utilizados os frameworks bootstrap e primefaces.
+Para o fornecimento de componentes visuais do projeto, também foram utilizados 
+os frameworks bootstrap e primefaces.
     
 As seguintes funcionalidades foram implementadas:
     - Criar uma tarefa
